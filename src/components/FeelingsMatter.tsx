@@ -61,12 +61,12 @@ export default function FeelingsMatter({
       <div className="mx-auto max-w-7xl px-8 lg:px-8 py-12 lg:py-16">
         <div className="grid grid-cols-1 gap-12 lg:gap-16 lg:grid-cols-2 lg:items-start">
           <div>
-            <div
-              style={{ fontFamily: "Giphurs" }}
-              className="inline-flex md:items-center md:justify-center rounded-2xl bg-[#F3EFED] px-3 py-1 md:text-[14px] text-[12px] font-light d text-[#2C3C44]"
-            >
-              {overline}
-            </div>
+            {/* Overline pill */}
+          <div style={{ fontFamily: "Giphurs" }} className="inline-flex md:items-center md:justify-center rounded-2xl bg-[#F3EFED] px-3 py-1 md:text-[14px] text-[12px] font-light  text-[#2C3C44]">
+            {overline}
+          </div>
+
+            {/* Title */}
             <h2
               className="mb-7 mt-5 md:text-[42px] text-[32px] font-semibold md:leading-[61.6px] leading-12 text-left -tracking-[0.28px]"
               style={{

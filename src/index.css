@@ -2,6 +2,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,100..900;1,9..144,100..900&display=swap');
 @import "tailwindcss";
 
+=======
+@import url('https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,100..900;1,9..144,100..900&display=swap');
+@import "tailwindcss";
+>>>>>>> a3a4abcd1f98fea89514a779672f2f1cc0538336
 :root {
   --Colors-Text-Primary: #2c3c44;
   --Colors-Text-Secondary: #64737a;
