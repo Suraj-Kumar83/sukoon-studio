@@ -10,7 +10,6 @@ import RealStories from './components/RealStories';
 import LearnGerman from './components/learngerman/LearnGerman';
 import Footer from './components/Footer'
 function App() {
-
   return (
     <>
     <Hero/>
